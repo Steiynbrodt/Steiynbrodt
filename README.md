@@ -4,7 +4,7 @@
 ###
 
 <p align="left">My name is Steiynbrodt</p>
-<p align="left">My name is Steiynbrodt i am a aspiring Hacker</p>
+<p align="left"> i am a aspiring Hacker and programmer</p>
 
 ###
 
