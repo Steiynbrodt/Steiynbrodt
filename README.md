@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning machine learning and Game development <br>🎯 Goals:  Getting better at coding <br>🎲 Fun fact: i can fly the F-16 block 50 and F-14</p>
+<p align="left">📚 I'm currently learning Computer Networking <br>🎯 Goals:  Getting better at coding <br>🎲 Fun fact: i can fly the F-16 block 50 and F-14</p>
 
 ###
 
