@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/Steiynbrodt/Steiynbrodt/main/ascii-art-text.png" width="100%" />
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
