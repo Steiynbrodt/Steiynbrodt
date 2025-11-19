@@ -12,7 +12,7 @@
 <p align="left">
 📚 I'm currently learning more about how Computer networking works  
 <p align="left">🎯 Goals: Getting better at coding  
-<p align="left">🎲 Fun fact: I enjoy flying high-fidelity modules in DCS (F-16 / F-14) and listening to stuff with an RTL-SDR
+<p align="left">🎲 Fun fact: I enjoy flying high-fidelity modules in DCS (F-16 / F-14) and listening to stuff with a RTL-SDR
 </p>
 
 ---
