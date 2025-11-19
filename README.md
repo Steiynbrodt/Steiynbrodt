@@ -70,21 +70,4 @@ You can find all projects here:
 
 ---
 
-## 🕛 Latest Activity (Auto-Updating)
-*(Updates every few hours)*
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-To enable this, install this GitHub Action:  
-https://github.com/Readme-Workflows/recent-activity
-
----
-
-## 🐍 Animated Contribution Snake
-
-> To enable this, add the GitHub Action from:  
-> https://github.com/Platane/snk
-
-```markdown
-![snake gif](https://github.com/Steiynbrodt/Steiynbrodt/blob/output/github-contribution-grid-snake.svg)
+📫 How to reach me: **[Steiynbrodt@protonmail.com](mailto:Steiynbrodt@protonmail.com)**
