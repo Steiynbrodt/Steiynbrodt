@@ -30,10 +30,6 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60"/>
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60"/>
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60"/>
 </div>
 
@@ -53,9 +49,11 @@ You can find all projects here:
 
 ## 🧠 What I'm Learning  
 - Getting comfortable with networking basics (IP, routing, switching, VLANs)  
-- Improving low-level C/C++ skills  maybe at some point assembly 
-- Machine learning experiments with PyTorch / TF  
-- VEX V5 robotics programming (competition-level)
+- Improving low-level C/C++ skills  maybe at some point assembly
+- reverse engineering (basics)
+- Malware development (for educational purposes only and i wont make them public repos)
+- getting more comfortable with python
+
 
 ---
 
