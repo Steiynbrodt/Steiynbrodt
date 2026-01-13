@@ -42,6 +42,7 @@ Here are some cool things I made:
 🔹 **RCS Calculator** – Python-based radar cross-section simulator  
 🔹 **VEX V5 Robotics Code** – autonomous navigation, control logic  
 🔹 **Z.O.E(Zone Of Enders)** - if you played Ace Combat you know what it is (i am not doing it on a real aircraft though)
+🔹 and its private and not done yet might release when its done
 
 
 You can find all projects here:  
