@@ -52,10 +52,10 @@ All public repositories can be found here:
 
 ## 🧠 Experience & Learning
 
-- Networking fundamentals (IP addressing, routing, switching, VLANs)  
+- Networking fundamentals (IP addressing, routing, switching, VLANs) (just started learning it9
 - Low-level programming in C / C++  
 - Python for tooling and automation  
-- Basics of reverse engineering  
+- Basics of reverse engineering  (just started learning it)
 - Practical Linux experience with Kali Linux, Ubuntu and CachyOS  
 - Dual-boot system setup (Kali Linux / CachyOS) including GRUB configuration and full disk encryption (FDE)  
 - **Robotics experience:** approx. one year each working with **VEX V5** and **VEX AI**, focusing on control logic, autonomous behavior and system integration  
