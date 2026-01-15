@@ -42,8 +42,8 @@ I am a technically interested student working on practical software projects wit
 Some selected projects I have worked on:
 
 🔹 **RCS Calculator** – Python-based radar cross-section simulator  
-🔹 **Z.O.E. (Zone Of Enders)** – realistic UAV reinforcement learning simulation (private / work in progress)  
-🔹 **Project NEMO** – private research and learning project: a fictional simulation environment inspired by *Ace Combat 3*, focusing on system architecture, AI decision-making and simulation logic  
+🔹 **Z.O.E. (Zone Of Enders)** – early-stage UAV simulation project built with Godot, currently focused on physics, simulation environment setup and system foundations (private / work in progress)  
+🔹 **Project NEMO** – follow-up project to Z.O.E.; a private research and learning project planned to expand the simulation into a larger fictional environment inspired by *Ace Combat 3*, focusing on system architecture, AI decision-making and simulation logic  
 
 All public repositories can be found here:  
 👉 https://github.com/Steiynbrodt?tab=repositories
