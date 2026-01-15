@@ -1,23 +1,25 @@
 <img src="https://raw.githubusercontent.com/Steiynbrodt/Steiynbrodt/main/ascii-art-text.png" width="100%" />
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello 👋</h1>
 
 ###
 
-<p align="left">My name is Steiynbrodt</p>
-<p align="left">I am an aspiring hacker and programmer.</p>
+<p align="left">My name is Steiynbrodt.</p>
+<p align="left">
+I am a technically interested student working on practical software projects with a focus on systems, automation and networking.
+</p>
 
 ###
 
 <p align="left">
-📚 I'm currently learning more about how Computer networking works  
-<p align="left">🎯 Goals: Getting better at coding  
-<p align="left">🎲 Fun fact: I enjoy flying high-fidelity modules in DCS (F-16 / F-14) and listening to stuff with a RTL-SDR
+📚 Currently learning more about computer networking and system internals  
+🎯 Goal: continuously improving my programming and problem-solving skills  
+🎲 Interests: high-fidelity flight simulation (DCS F-16 / F-14), hands-on experimentation with SDR hardware (HackRF with PortaPack), and building fictional simulation environments inspired by Ace Combat 3 as research and learning projects
 </p>
 
 ---
 
-## 💻 I code with
+## 💻 Technologies & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60"/>
@@ -37,26 +39,26 @@
 
 ## 🧩 Notable Projects
 
-Here are some cool things I made:
+Some selected projects I have worked on:
 
 🔹 **RCS Calculator** – Python-based radar cross-section simulator  
-🔹 **VEX V5 Robotics Code** – autonomous navigation, control logic  
-🔹 **Z.O.E(Zone Of Enders)** - if you played Ace Combat you know what it is (i am not doing it on a real aircraft though)
-and its private and not done yet might release when its done
+🔹 **Z.O.E. (Zone Of Enders)** – realistic UAV reinforcement learning simulation (private / work in progress)  
+🔹 **Project NEMO** – private research and learning project: a fictional simulation environment inspired by *Ace Combat 3*, focusing on system architecture, AI decision-making and simulation logic  
 
-
-You can find all projects here:  
+All public repositories can be found here:  
 👉 https://github.com/Steiynbrodt?tab=repositories
 
 ---
 
-## 🧠 What I'm Learning  
-- Getting comfortable with networking basics (IP, routing, switching, VLANs)  
-- Improving low-level C/C++ skills  maybe at some point assembly
-- reverse engineering (basics)
-- Malware development (for educational purposes only and i wont make them public repos)
-- getting more comfortable with python
+## 🧠 Experience & Learning
 
+- Networking fundamentals (IP addressing, routing, switching, VLANs)  
+- Low-level programming in C / C++  
+- Python for tooling and automation  
+- Basics of reverse engineering  
+- Practical Linux experience with Kali Linux, Ubuntu and CachyOS  
+- Dual-boot system setup (Kali Linux / CachyOS) including GRUB configuration and full disk encryption (FDE)  
+- **Robotics experience:** approx. one year each working with **VEX V5** and **VEX AI**, focusing on control logic, autonomous behavior and system integration  
 
 ---
 
@@ -69,4 +71,4 @@ You can find all projects here:
 
 ---
 
-📫 How to reach me: **[Steiynbrodt@protonmail.com](mailto:Steiynbrodt@protonmail.com)**
+📫 Contact: **[Steiynbrodt@protonmail.com](mailto:Steiynbrodt@protonmail.com)**
