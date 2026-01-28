@@ -13,7 +13,7 @@ I am a technically interested student working on practical software projects wit
 
 <p align="left">
 📚 Currently learning: computer networking and system internals<br>
-🎯 Goal: continuously improving my programming and problem-solving skills<br>
+🎯 Goal: continuously improving my programming and problem-solving skills, and working on the repos i forked<br>
 🎲 Interests: high-fidelity flight simulation (DCS F-16 / F-14), hands-on experimentation with SDR hardware (HackRF with PortaPack), and building fictional simulation environments inspired by Ace Combat 3
 </p>
 
